@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an undergraduate student  majoring in computer science of Wuyuzhang Honour College in Sichuan University,expected to graduate in June 2026. My passion lies in Large Language Model, especially LLM based Database System Design and Optimization.
+Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026. His passion lies in Large Language Model, especially LLM based Database System Design and Optimization.
 
 
 
