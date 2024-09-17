@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**]
 
 -->
-# Projects
+# 📝 Projects
 ### 3D reconstruction system of edge-cloud field archaeology based on NERFs | 2023.11 - 2024.05
 - Design the end-to-end 3D reconstruction scheme, deploy the Intranet server, and realize the edge device system client.
 - The 3D reconstruction algorithm 3D Gaussian SPlatting(SIGGRAPH 2023) is deployed on edge devices and cloud devices to
@@ -66,6 +66,6 @@ optimize the format of the input data set.
 - *2023.8* First Price,China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (Expected), B.S. Candidate in Computer Science,Wuyuzhang College(Bachelor of Honours programme), Sichuan University
+- 2022.09 - 2026.06 (Expected), B.S. Candidate in Computer Science,Wuyuzhang College(Bachelor of Honours programme), Sichuan University
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
