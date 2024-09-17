@@ -44,6 +44,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 -->
 # 📝 Projects
+### Query Rewrite via Large Language Model for DBMS | 2024.07 - 2024.08
+- Leverage the analytical power of Large Language Model to propose the relational rules of SQL optimization.
+- Repeat a LLM-based optimization pipline to reduce the hallucination issues in Large Language Model.
+- Construct a rewrite rule knowledge pool to further gain the learn ability.
+- [Query Rewrite via Large Language Model for DBMS](https://github.com/Orderheart/GenRewrite)
+
 ### 3D reconstruction system of edge-cloud field archaeology based on NERFs | 2023.11 - 2024.05
 - Design the end-to-end 3D reconstruction scheme, deploy the Intranet server, and realize the edge device system client.
 - The 3D reconstruction algorithm 3D Gaussian SPlatting(SIGGRAPH 2023) is deployed on edge devices and cloud devices to
