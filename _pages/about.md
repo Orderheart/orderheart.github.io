@@ -68,4 +68,6 @@ optimize the format of the input data set.
 # 📖 Educations
 - 2022.09 - 2026.06 (Expected), B.S. Candidate in Computer Science,Wuyuzhang College(Bachelor of Honours programme), Sichuan University
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
+</div>
