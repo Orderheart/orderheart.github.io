@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an undergraduate student  majoring in computer science of Wuyuzhang Honour College in Sichuan University,expected to graduate in June 2026. My passion lies in Large Language Model based Database System Design and Optimization.
+Yuyang Song is an undergraduate student  majoring in computer science of Wuyuzhang Honour College in Sichuan University,expected to graduate in June 2026. My passion lies in Large Language Model, especially LLM based Database System Design and Optimization.
 
 
 
@@ -30,9 +30,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
-
-
 
  # 📝 Publications 
 
@@ -43,15 +40,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**Project**]
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+-->
 # Projects
 ### 3D reconstruction system of edge-cloud field archaeology based on NERFs | 2023.11 - 2024.05
+- Design the end-to-end 3D reconstruction scheme, deploy the Intranet server, and realize the edge device system client.
+- The 3D reconstruction algorithm 3D Gaussian SPlatting(SIGGRAPH 2023) is deployed on edge devices and cloud devices to
+optimize the format of the input data set.
+- Cloud storage model, WEBGL front-end model rendering demonstration.
+- [3D reconstruction system of edge-cloud field archaeology based on NERFs](https://github.com/Orderheart/Archaeological_3D_Reconstruction)
+
+### Construction of targeted anti-caries polypeptides based on machine learning | 2023.11 - 2024.03
+- Characterization of anti-caries antimicrobial peptide protein sequence and construction of data set.
+- Feature extraction and feature scoring index system were constructed by machine learning algorithm.
+- The optimal antimicrobial peptides were found by regression analysis of MIC value.
+- [Construction of targeted anti-caries polypeptides based on machine learning](https://github.com/Orderheart/Machine_Learning_AMP_Analysis)
 
 
 # 🎖 Honors and Awards
@@ -63,3 +67,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected), B.S. Candidate in Computer Science,Wuyuzhang College(Bachelor of Honours programme), Sichuan University
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BcrM0fkNxoe20Vnth_-J_CaOsYoubXBEWPLVc2YWMeI&cl=ffffff&w=a"></script>
