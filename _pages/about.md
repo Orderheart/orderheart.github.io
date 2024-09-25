@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026. His passion lies in Large Language Model, especially LLM based Database System Design and Optimization.
+Yuyang Song is an undergraduate student majoring in computer science of Wuyuzhang Honour College in Sichuan University, expected to graduate in June 2026 under the supervision of Prof.[Mingjie tang](https://merlintang.github.io/).Currently, his research interest lies in efficient LLM application,particularly language agents and LLM based Database System Design and Optimization.
 
 
 
@@ -65,10 +65,10 @@ optimize the format of the input data set.
 
 
 # 🎖 Honors and Awards
-- *2024.4* Huawei Smart Pedestal Scholarship.
-- *2023.11* **Nationcal Scholarship** , Ministry of Education，China(Top 2%). 
+- *2024.4* 🎉🎉 Huawei Smart Pedestal Scholarship.
+- *2023.11* 🎉🎉 **Nationcal Scholarship**,Ministry of Education,China(Top 2%). 
 - *2023.11* First Price,China Undergraduate Mathematical Contest in Modeling.
-- *2023.10* First-class scholarship, Sichuan University(Top 2%). 
+- *2023.10* 🎉🎉 First-class scholarship, Sichuan University(Top 2%). 
 - *2023.8* First Price,China Undergraduate Internet of Things Design Competition.
 
 # 📖 Educations
