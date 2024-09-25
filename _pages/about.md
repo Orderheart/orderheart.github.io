@@ -66,10 +66,11 @@ optimize the format of the input data set.
 
 # 🎖 Honors and Awards
 - *2024.4* 🎉🎉 Huawei Smart Pedestal Scholarship.
-- *2023.11* 🎉🎉 **Nationcal Scholarship**,Ministry of Education,China(Top 2%). 
-- *2023.11* First Price,China Undergraduate Mathematical Contest in Modeling.
+- *2023.11* 🎉🎉 <font color=red>Nationcal Scholarship</font>,Ministry of Education,China(Top 2%). 
+- *2023.11* 🎉🎉First Price,China Undergraduate Mathematical Contest in Modeling.
 - *2023.10* 🎉🎉 First-class scholarship, Sichuan University(Top 2%). 
-- *2023.8* First Price,China Undergraduate Internet of Things Design Competition.
+- *2023.8* 🎉🎉First Price,China Undergraduate Internet of Things Design Competition.
+
 
 # 📖 Educations
 - 2022.09 - 2026.06 (Expected), B.S. Candidate in Computer Science,Wuyuzhang College(Bachelor of Honours programme), Sichuan University
